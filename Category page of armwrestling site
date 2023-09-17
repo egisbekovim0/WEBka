@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Armwrestling Category</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img_5">
+    <link rel="stylesheet" type="text/css" href="styles1.css">
+</head>
+<body>
+    <header>
+        <h1 class="site-title">Armwrestling Category</h1>
+        <nav>
+            <a href="armocategory.html">Home</a>
+            <a href="webpagik.html">Category</a>
+
+        </nav>
+    </header>
+    <main class="mainContent">
+
+<!-- 1 -->
+        <section> 
+            <h2>Featured Video</h2>
+            <!-- 2 -->
+            <video src="video.mp4" controls></video>
+        </section>
+        <!-- 3 -->
+        <aside>
+            <h3>Related Links</h3>
+            <ul>
+                <li><a href="#">Explore Videos</a></li>
+                <li><a href="#">Subscribe</a></li>
+                <li><a href="#">User Reviews</a></li>
+            </ul>
+        </aside>
+
+        <span class="highlight-text">Important Note:</span>
+        <mark class="attention">Pay attention to this message.</mark>
+
+        <div class="content-section">
+            <h2>Armwrestling Techniques</h2>
+            <p>
+                Here you can find information about different armwrestling techniques and strategies.
+            </p>
+
+            <div class="card">
+                <div class="card-image">
+                    <img src="armo.jpg" alt="Technique 1">
+                </div>
+                <div class="card-content">
+                    <h3>Basic Armwrestling Techniques</h3>
+                    <p>Hook - This technique involves a supination of the hand and forearm, focusing on wrist strength.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-image">
+                    <img src="armo3.jpg" alt="Technique 2">
+                </div>
+                <div class="card-content">
+                    <h3>Toproll Technique</h3>
+                    <p>A classic technique that relies on pronation of the hand and forearm.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-image">
+                    <img src="armo2.jpg" alt="Technique 3">
+                </div>
+                <div class="card-content">
+                    <h3>Advanced Strategies</h3>
+                    <p>In addition to these basic techniques, advanced armwrestlers often employ various strategies to gain the upper hand in matches.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <blockquote>
+            <div class="footer-section">
+                <p>&copy; 2023 Armwrestling Category</p>
+            </div>
+        </blockquote>
+    </footer>
+</body>
+</html>
